@@ -1,0 +1,7 @@
+﻿  Controller.cpp
+f:\poo semestru 2\battleship game on string matrix\project1\project1\controller.cpp(42): warning C4018: '<': signed/unsigned mismatch
+f:\poo semestru 2\battleship game on string matrix\project1\project1\controller.cpp(53): warning C4018: '<': signed/unsigned mismatch
+f:\poo semestru 2\battleship game on string matrix\project1\project1\controller.cpp(64): warning C4018: '<': signed/unsigned mismatch
+f:\poo semestru 2\battleship game on string matrix\project1\project1\controller.cpp(111): warning C4018: '<': signed/unsigned mismatch
+f:\poo semestru 2\battleship game on string matrix\project1\project1\controller.cpp(137): warning C4018: '<': signed/unsigned mismatch
+  Project1.vcxproj -> F:\POO Semestru 2\Battleship Game on String Matrix\Project1\Debug\Project1.exe
